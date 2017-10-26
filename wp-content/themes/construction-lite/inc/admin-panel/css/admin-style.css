@@ -1,0 +1,13 @@
+.sub-option.widget-upload .screenshot img {
+    width: 120px;
+    height: auto;
+}
+.sub-option.widget-upload .screenshot a.remove-image {
+    display: block;
+    border: solid 1px #cacaca;
+    padding: 3px;
+    width: 48px;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 2px;
+}
